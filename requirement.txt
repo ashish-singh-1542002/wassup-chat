@@ -1,7 +1,7 @@
 streamlit
 pandas
-emoji
-wordcloud
-urlextract
-seaborn
+numpy
 matplotlib
+seaborn
+emoji
+urlextract
